@@ -1,8 +1,3 @@
-//enrollment for examination
-//marks entry
-// regualr exam re exam
-//regular exams ke liye passed subjects
-//failed exams ke liye
 
 #include <iostream>
 using namespace std;
